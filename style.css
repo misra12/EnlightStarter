@@ -1,0 +1,23 @@
+html{
+  margin:16px;
+  background:#FAF0E6;
+}
+
+img{
+  height: 100px;
+  border-radius:50%;
+}
+
+body{
+  font-family:'Times New Roman', Times, serif;
+  text-align: center;
+  border: 12px solid #f0670c;
+  padding:8px;
+  box-shadow:12px 12px #f0670c;
+  max-width:50em;
+  margin:auto;
+}
+
+h1, h2{
+  color: gray;
+}
